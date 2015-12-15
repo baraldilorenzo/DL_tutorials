@@ -5,4 +5,4 @@ They have been designed for a three hours class, in which students can get to kn
 
 * **[Tutorial 1](01_Linear_Regression.ipynb)**: Training a Linear Regression model with SGD and Keras backend.
 * **[Tutorial 2](02_MLP.ipynb)**: Multilayer Perceptron in Keras on the MNIST dataset
-* **[Tutorial 3](03_CNN.ipynb)**: A Convolutional Neural Network trained on the CIFAR100 dataset
+* **[Tutorial 3](03_CNN.ipynb)**: A Convolutional Neural Network trained on the CIFAR10 dataset
